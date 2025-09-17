@@ -54,11 +54,11 @@ pip install -r requirements.txt
 3. `3_modelling_and_hyperparameter_tuning.ipynb` – Train and tune models
 4. `4_evaluation_and_interpretation.ipynb` – Evaluate and interpret results
 
-## 📈 Results
+## Results
 
 * **Best Model**: Random Forest (AUC ≈ 0.85)
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * **Programming Language**: Python
 * **Libraries**: pandas, NumPy, scikit-learn, imbalanced-learn, Optuna, seaborn, matplotlib
