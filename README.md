@@ -19,15 +19,15 @@ This project predicts **customer churn** using machine learning techniques on th
 ```text
 customer-churn-prediction/
 │
-├── data/                         # Dataset files 
-├── 1_data_exploration.ipynb      # EDA: distributions, missing values, correlations
-├── 2_data_preprocessing.ipynb    # Data cleaning, encoding, SMOTE, and splitting
-├── 3_modelling_and_hyperparameter_tuning.ipynb  # Cross-validation & Optuna tuning
-├── 4_evaluation_and_interpretation.ipynb        # Metrics, ROC-AUC, and confusion matrices
-├── models/                       # Model files
-├── requirements.txt              # Dependencies
-└── README.md                     # Project documentation
-```
+├── data/                                 # Dataset files 
+├── notebooks/                            # Jupyter notebooks for workflow
+│   ├── 1_data_exploration.ipynb          # EDA: distributions, missing values, correlations
+│   ├── 2_data_preprocessing.ipynb        # Data cleaning, encoding, SMOTE, and splitting
+│   ├── 3_modelling_and_hyperparameter_tuning.ipynb  # Cross-validation & Optuna tuning
+│   └── 4_evaluation_and_interpretation.ipynb        # Metrics, ROC-AUC, and confusion matrices
+├── models/                               # Saved model files
+├── requirements.txt                      # Dependencies
+└── README.md                             # Project documentation
 
 ## How to Run
 
