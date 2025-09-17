@@ -16,6 +16,7 @@ This project predicts **customer churn** using machine learning techniques on th
 
 ## Project Structure
 
+```text
 customer-churn-prediction/
 │
 ├── data/                         # Dataset files 
