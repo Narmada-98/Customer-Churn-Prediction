@@ -27,11 +27,11 @@ customer-churn-prediction/
 ├── models/                       # Model files
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project documentation
-
+```
 
 ## How to Run
 
-### 1️⃣ **Clone the repository**
+### 2️⃣ **Create a virtual environment and install dependencies**
 
 ```bash
 git clone https://github.com/Narmada-98/Customer-Churn-Prediction.git
