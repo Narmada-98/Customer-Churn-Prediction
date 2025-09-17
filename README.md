@@ -31,7 +31,7 @@ customer-churn-prediction/
 
 ## How to Run
 
-### 2️⃣ **Create a virtual environment and install dependencies**
+### 1️⃣ **Clone the repository**
 
 ```bash
 git clone https://github.com/Narmada-98/Customer-Churn-Prediction.git
